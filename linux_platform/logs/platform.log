@@ -1,0 +1,265 @@
+TRACE::2022-01-20.14:26:43::SCWPlatform::Trying to open the hw design at ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:26:43::SCWPlatform::DSA given ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:26:43::SCWPlatform::DSA absoulate path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:26:43::SCWPlatform::DSA directory c:/MY_WS/git_ws/linux_platform/hw
+TRACE::2022-01-20.14:26:44::SCWPlatform:: Platform Path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:26:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-01-20.14:27:23::SCWPlatform::update - Opened the Hw DB with name arik_test_hw_wrapper
+TRACE::2022-01-20.14:27:23::SCWWriter::formatted JSON is {
+	"platformName":	"linux_platform",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"linux_platform",
+	"platHandOff":	"c:/MY_WS/git_ws/sdk/sdk/arik_test_hw_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/arik_test_hw_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-01-20.14:27:23::SCWWriter::formatted JSON is {
+	"platformName":	"linux_platform",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"linux_platform",
+	"platHandOff":	"c:/MY_WS/git_ws/sdk/sdk/arik_test_hw_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/arik_test_hw_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"linux_platform",
+	"systems":	[{
+			"systemName":	"linux_platform",
+			"systemDesc":	"linux_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"linux_platform"
+		}]
+}
+TRACE::2022-01-20.14:27:23::SCWPlatform::Trying to open the hw design at ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:23::SCWPlatform::DSA given ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:23::SCWPlatform::DSA absoulate path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:23::SCWPlatform::DSA directory c:/MY_WS/git_ws/linux_platform/hw
+TRACE::2022-01-20.14:27:23::SCWPlatform:: Platform Path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:23::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-01-20.14:27:23::SCWPlatform::update - Opened existing hwdb arik_test_hw_wrapper
+TRACE::2022-01-20.14:27:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-01-20.14:27:24::SCWPlatform::Trying to open the hw design at ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform::DSA given ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform::DSA absoulate path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform::DSA directory c:/MY_WS/git_ws/linux_platform/hw
+TRACE::2022-01-20.14:27:24::SCWPlatform:: Platform Path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-01-20.14:27:24::SCWPlatform::update - Opened existing hwdb arik_test_hw_wrapper
+TRACE::2022-01-20.14:27:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-01-20.14:27:24::SCWDomain::checking for install qemu data   : 
+TRACE::2022-01-20.14:27:24::SCWDomain:: Using the QEMU Data from install at  : D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/
+TRACE::2022-01-20.14:27:24::SCWDomain:: Using the QEMU args  from install at  : D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/qemu_args.txt
+TRACE::2022-01-20.14:27:24::SCWPlatform::Trying to open the hw design at ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform::DSA given ./linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform::DSA absoulate path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform::DSA directory c:/MY_WS/git_ws/linux_platform/hw
+TRACE::2022-01-20.14:27:24::SCWPlatform:: Platform Path c:/MY_WS/git_ws/linux_platform/hw/arik_test_hw_wrapper.xsa
+TRACE::2022-01-20.14:27:24::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-01-20.14:27:24::SCWPlatform::update - Opened existing hwdb arik_test_hw_wrapper
+TRACE::2022-01-20.14:27:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-01-20.14:27:24::SCWWriter::formatted JSON is {
+	"platformName":	"linux_platform",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"linux_platform",
+	"platHandOff":	"c:/MY_WS/git_ws/sdk/sdk/arik_test_hw_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/arik_test_hw_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"linux_platform",
+	"systems":	[{
+			"systemName":	"linux_platform",
+			"systemDesc":	"linux_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"linux_platform",
+			"sysActiveDom":	"linux_domain",
+			"sysDefaultDom":	"linux_domain",
+			"domains":	[{
+					"domainName":	"linux_domain",
+					"domainDispName":	"linux_domain",
+					"domainDesc":	"linux_domain",
+					"processors":	"ps7_cortexa9",
+					"os":	"linux",
+					"sdxOs":	"linux",
+					"qemuArgs":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/qemu_args.txt",
+					"qemuData":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"isLinuxConfigured":	"true",
+					"isBuildFlow":	"false",
+					"sysBootDir":	"",
+					"isMicroBlaze":	"false",
+					"bootmode":	"sd",
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-01-20.14:27:24::SCWWriter::formatted JSON is {
+	"platformName":	"linux_platform",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"linux_platform",
+	"platHandOff":	"c:/MY_WS/git_ws/sdk/sdk/arik_test_hw_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/arik_test_hw_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"linux_platform",
+	"systems":	[{
+			"systemName":	"linux_platform",
+			"systemDesc":	"linux_platform",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"linux_platform",
+			"sysActiveDom":	"linux_domain",
+			"sysDefaultDom":	"linux_domain",
+			"domains":	[{
+					"domainName":	"linux_domain",
+					"domainDispName":	"linux on ps7_cortexa9",
+					"domainDesc":	"linux_domain",
+					"processors":	"ps7_cortexa9",
+					"os":	"linux",
+					"sdxOs":	"linux",
+					"qemuArgs":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/qemu_args.txt",
+					"qemuData":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"isLinuxConfigured":	"true",
+					"isBuildFlow":	"false",
+					"sysBootDir":	"",
+					"isMicroBlaze":	"false",
+					"bootmode":	"sd",
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-01-20.14:27:24::SCWWriter::formatted JSON is {
+	"platformName":	"linux_platform",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"linux_platform",
+	"platHandOff":	"c:/MY_WS/git_ws/sdk/sdk/arik_test_hw_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/arik_test_hw_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"linux_platform",
+	"systems":	[{
+			"systemName":	"linux_platform",
+			"systemDesc":	"linux_platform",
+			"sysIsBootAutoGen":	"false",
+			"systemDispName":	"linux_platform",
+			"sysActiveDom":	"linux_domain",
+			"sysDefaultDom":	"linux_domain",
+			"domains":	[{
+					"domainName":	"linux_domain",
+					"domainDispName":	"linux on ps7_cortexa9",
+					"domainDesc":	"linux_domain",
+					"processors":	"ps7_cortexa9",
+					"os":	"linux",
+					"sdxOs":	"linux",
+					"qemuArgs":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/qemu_args.txt",
+					"qemuData":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"isLinuxConfigured":	"true",
+					"isBuildFlow":	"false",
+					"sysBootDir":	"",
+					"isMicroBlaze":	"false",
+					"bootmode":	"sd",
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-01-20.14:27:24::SCWWriter::formatted JSON is {
+	"platformName":	"linux_platform",
+	"sprVersion":	"2.0",
+	"mode":	"cmd",
+	"dsaType":	"Fixed",
+	"platformDesc":	"linux_platform",
+	"platHandOff":	"c:/MY_WS/git_ws/sdk/sdk/arik_test_hw_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/arik_test_hw_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"true",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"linux_platform",
+	"systems":	[{
+			"systemName":	"linux_platform",
+			"systemDesc":	"linux_platform",
+			"sysIsBootAutoGen":	"false",
+			"systemDispName":	"linux_platform",
+			"sysActiveDom":	"linux_domain",
+			"sysDefaultDom":	"linux_domain",
+			"domains":	[{
+					"domainName":	"linux_domain",
+					"domainDispName":	"linux on ps7_cortexa9",
+					"domainDesc":	"linux_domain",
+					"processors":	"ps7_cortexa9",
+					"os":	"linux",
+					"sdxOs":	"linux",
+					"qemuArgs":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/qemu_args.txt",
+					"qemuData":	"D:/ex_dev/Vitis/2021.2/data/emulation/platforms/zynq/sw/a9_linux/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"isLinuxConfigured":	"true",
+					"isBuildFlow":	"false",
+					"sysBootDir":	"",
+					"isMicroBlaze":	"false",
+					"bootmode":	"sd",
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
